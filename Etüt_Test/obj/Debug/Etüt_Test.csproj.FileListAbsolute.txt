@@ -1,0 +1,10 @@
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\bin\Debug\Etüt_Test.exe.config
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\bin\Debug\Etüt_Test.exe
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\bin\Debug\Etüt_Test.pdb
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.csproj.AssemblyReference.cache
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.Form1.resources
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.Properties.Resources.resources
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.csproj.GenerateResource.cache
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.csproj.CoreCompileInputs.cache
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.exe
+C:\Users\lenovopc\source\repos\Etüt_Test\Etüt_Test\obj\Debug\Etüt_Test.pdb
